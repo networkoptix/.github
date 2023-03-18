@@ -7,9 +7,6 @@ Network Optix is a video software development company focused on enabling the de
 
 10 years in the making, the Network Optix Enterprise Video Platform helps innovative organizations rapidly build world-class, custom-tailored, enterprise scale video software solutions that can run on-prem, at the edge, or in the cloud with a full set of developer tools (REST API, SDKs) that enable integration to any existing hardware or solution.
 
-- 10 years of continuous development
-- License: MPL 2.0
-
 ## Getting Started
 1. Register & download Nx Meta following instructions [here](https://www.networkoptix.com/nx-meta/get-started-with-meta).
 2. Check out our [Knowledge Base](https://meta.nxvms.com/docs/developers)
