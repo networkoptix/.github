@@ -1,0 +1,55 @@
+# IDE and misc software files.
+*.xcworkspace
+.idea
+.vs
+.vscode
+*~*.TMP
+*.kdev4
+.DS_Store
+._.DS_Store
+*.swp
+*.orig
+*.rej
+*.autosave
+CMakeLists.txt.user
+CMakeSettings.json
+CMakeUserPresets.json
+.vim*
+.ccls*
+compile_commands.json
+.clangd
+.cache
+_ReSharper.Caches
+env
+venv
+output.xml
+*.ts-e
+/git_info.txt
+
+# Precompiled files.
+__pycache__
+*.pyc
+*.qmlc
+*.jsc
+
+# Build folders in the repository root.
+/**/build/
+/**/build-*/
+/**/*-build/
+
+# Cloud-specific files.
+.pabotsuitenames
+/cloud/backend/cloud_tests/monitoring/build/
+/cloud/backend/cloud_tests/monitoring/dist/
+/cloud/backend/cloud_tests/monitoring/env/
+/cloud/backend/cloud_tests/monitoring/monitoring_simple.egg-info/
+/cloud/backend/discovery/discovery_service/nx/cloud/discovery/version.go
+/cloud/deploy/monitoring_simple/stage/
+*.deb
+
+# Go path generated binaries
+/go/pkg/
+/go/bin/
+
+# NodeJS files
+node_modules
